@@ -11,7 +11,7 @@ export const Header = () => {
               <span className='sr-only'>Meteor Purse</span>
               <img
                 className='h-10 w-auto'
-                src='/images/logo.png'
+                src='./images/logo.png'
                 alt=''
               />
             </a>
